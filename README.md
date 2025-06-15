@@ -1,4 +1,4 @@
-# ADB-
+# ADB-Bulk-Uninstaller
 利用ADB工具批量卸载手机软件
 
 步骤：  
